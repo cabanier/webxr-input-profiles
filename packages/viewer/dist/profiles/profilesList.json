@@ -29,6 +29,9 @@
   "generic-trigger": {
     "path": "generic-trigger/profile.json"
   },
+  "generic-hand-select": {
+    "path": "generic-hand-select/profile.json"
+  },
   "google-daydream": {
     "path": "google-daydream/profile.json"
   },

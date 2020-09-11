@@ -35,6 +35,9 @@
   "generic-trigger": {
     "path": "generic/generic-trigger.json"
   },
+  "generic-hand-select": {
+    "path": "generic-hand-select/profile.json"
+  },
   "google-daydream": {
     "path": "google/google-daydream.json"
   },
