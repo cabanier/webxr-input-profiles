@@ -3,11 +3,13 @@
     "fallbackProfileIds": [],
     "layouts": {
       "left": {
+        "components": {},
         "gamepadMapping": "",
         "rootNodeName": "generic-button-left",
         "assetPath": "left.glb"
       },
       "right": {
+        "components": {},
         "gamepadMapping": "",
         "rootNodeName": "generic-button-right",
         "assetPath": "right.glb"
