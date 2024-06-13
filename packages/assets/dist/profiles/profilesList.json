@@ -56,6 +56,12 @@
   "magicleap-one": {
     "path": "magicleap-one/profile.json"
   },
+  "meta-quest-touch-plus": {
+    "path": "meta-quest-touch-plus/profile.json"
+  },
+  "meta-quest-touch-pro": {
+    "path": "meta-quest-touch-pro/profile.json"
+  },
   "microsoft-mixed-reality": {
     "path": "microsoft-mixed-reality/profile.json"
   },
@@ -75,6 +81,9 @@
   "oculus-touch": {
     "path": "oculus-touch/profile.json"
   },
+  "pico-4": {
+    "path": "pico-4/profile.json"
+  },
   "pico-g2": {
     "path": "pico-g2/profile.json"
   },
@@ -92,5 +101,8 @@
   },
   "valve-index": {
     "path": "valve-index/profile.json"
+  },
+  "yvr-touch": {
+    "path": "yvr-touch/profile.json"
   }
 }

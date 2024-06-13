@@ -1,7 +1,7 @@
 /* eslint-disable import/no-unresolved */
 import * as THREE from './three/build/three.module.js';
 import { GLTFLoader } from './three/examples/jsm/loaders/GLTFLoader.js';
-import { Constants } from './motion-controllers.module.js';
+import { Constants } from './motion-controllers.js';
 /* eslint-enable */
 
 import AssetError from './assetError.js';
@@ -104,10 +104,9 @@ class ControllerModel extends THREE.Object3D {
         } else if (valueNodeProperty === Constants.VisualResponseProperty.TRANSFORM) {
           const minNode = this.nodes[minNodeName];
           const maxNode = this.nodes[maxNodeName];
-          THREE.Quaternion.slerp(
+          valueNode.quaternion.slerpQuaternions(
             minNode.quaternion,
             maxNode.quaternion,
-            valueNode.quaternion,
             value
           );
 
