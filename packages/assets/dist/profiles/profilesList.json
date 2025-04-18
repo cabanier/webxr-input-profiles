@@ -62,6 +62,9 @@
   "magicleap-one": {
     "path": "magicleap-one/profile.json"
   },
+  "magicleap-two": {
+    "path": "magicleap-two/profile.json"
+  },
   "meta-quest-touch-plus": {
     "path": "meta-quest-touch-plus/profile.json"
   },
@@ -107,6 +110,9 @@
   },
   "valve-index": {
     "path": "valve-index/profile.json"
+  },
+  "yvr-touch-v2": {
+    "path": "yvr-touch-v2/profile.json"
   },
   "yvr-touch": {
     "path": "yvr-touch/profile.json"

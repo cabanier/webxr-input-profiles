@@ -71,6 +71,9 @@
   "magicleap-one": {
     "path": "magicleap/magicleap-one.json"
   },
+  "magicleap-two": {
+    "path": "magicleap/magicleap-two.json"
+  },
   "meta-fixed-hand": {
     "path": "meta/meta-fixed-hand.json"
   },
@@ -122,6 +125,9 @@
   },
   "valve-index": {
     "path": "valve/valve-index.json"
+  },
+  "yvr-touch-v2": {
+    "path": "yvr/yvr-touch-v2.json"
   },
   "yvr-touch": {
     "path": "yvr/yvr-touch.json"
