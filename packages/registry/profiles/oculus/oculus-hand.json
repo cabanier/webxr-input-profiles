@@ -18,7 +18,12 @@
                     null,
                     null,
                     null,
-                    "menu"
+                    "menu",
+                    "swipe-left",
+                    "swipe-right",
+                    "swipe-forward",
+                    "swipe-backward",
+                    "tap-thumb"
                 ],
                 "axes":[]
             }
@@ -31,7 +36,16 @@
             "gamepad": {
                 "mapping": "xr-standard",
                 "buttons": [
-                    "xr-standard-trigger"
+                    "xr-standard-trigger",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "swipe-left",
+                    "swipe-right",
+                    "swipe-forward",
+                    "swipe-backward",
+                    "tap-thumb"
                 ],
                 "axes":[]
             }
